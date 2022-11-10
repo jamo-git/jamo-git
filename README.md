@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jarmo
-- 👀 I work in technology industry 
-- 🌱 and currently enroll in Turku University
-- 💞️ and I like the most of python, javascript, C#
+- 👀 I work in technology industry with information displays
+- 🌱 M.Sc. in Software development
+- 🌱 B.Sc. in Embedded systems
 - 📫 Please contact me via linkedin www.linkedin.com/in/jarmo-koski
 
 <!---
