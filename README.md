@@ -2,6 +2,7 @@
 - 👀 I work in technology industry with information displays
 - 🌱 M.Sc. in Software development
 - 🌱 B.Sc. in Embedded systems
+- 🏂 Software Developer & Appliance Designer
 - 📫 Please contact me via linkedin www.linkedin.com/in/jarmo-koski
 
 <!---
