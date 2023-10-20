@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jarmo
-- 👀 I work in technology industry with information displays
+- 👀 I work as SoC SW Product Owner
 - 🌱 M.Sc. in Software development
 - 🌱 B.Sc. in Embedded systems
 - 🏂 Software Developer & Appliance Designer
